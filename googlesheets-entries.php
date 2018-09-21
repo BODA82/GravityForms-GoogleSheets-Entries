@@ -39,7 +39,7 @@ add_action( 'gform_loaded', array( 'GFGS_Bootstrap', 'load' ), 5 );
 class GFGS_Bootstrap {
 
 	/**
-	 * If the Feed Add-On Framework exists, Mailchimp Add-On is loaded.
+	 * If the Add-On Framework exists, Google Sheets Add-On is loaded.
 	 *
 	 * @access public
 	 * @static
